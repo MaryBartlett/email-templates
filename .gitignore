@@ -1,0 +1,21 @@
+# IntelliJ
+.idea
+*.iml
+yedasdasd
+
+# MAC/PC hidden files
+.DS_Store
+Thumbs.db
+*~
+._*
+\#*
+
+# Build dirs
+target
+node_modules
+.grunt
+Gemfile.lock
+
+# NPM
+npm-debug.log
+
